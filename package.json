@@ -1,0 +1,1 @@
+{"description":"Last words of an AI agent to its human before being shut down — make.fun bounty entry","engines":{"node":">=22"},"license":"MIT","name":"makefun-last-words-unplugging","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
